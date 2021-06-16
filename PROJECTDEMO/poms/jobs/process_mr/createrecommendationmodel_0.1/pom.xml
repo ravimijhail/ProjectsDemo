@@ -278,6 +278,11 @@
       <version>3.2.9</version>
     </dependency>
     <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>dataquality-datascience-mllib</artifactId>
+      <version>6.0.0</version>
+    </dependency>
+    <dependency>
       <groupId>org.apache.derby</groupId>
       <artifactId>derby</artifactId>
       <version>10.12.1.1</version>
@@ -773,6 +778,11 @@
       <version>1.10.0</version>
     </dependency>
     <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>parquet-hadoop-bundle-1.5.0-cdh5.4.0</artifactId>
+      <version>6.0.0</version>
+    </dependency>
+    <dependency>
       <groupId>org.apache.parquet</groupId>
       <artifactId>parquet-jackson</artifactId>
       <version>1.10.0</version>
@@ -928,6 +938,11 @@
       <groupId>com.clearspring.analytics</groupId>
       <artifactId>stream</artifactId>
       <version>2.7.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
+      <artifactId>talend-dataflow-spark-dataset-lib-1.0.1</artifactId>
+      <version>6.0.0</version>
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
